@@ -1,1 +1,1 @@
-# gitops-nitz
+# sample-app
