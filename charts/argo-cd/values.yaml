@@ -1,7 +1,6 @@
 argo-cd:
   dex:
     enabled: false
-  namespaceOverride: "deploy"
   notifications:
     enabled: false
   server:
